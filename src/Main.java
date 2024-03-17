@@ -8,7 +8,7 @@ public class Main {
         static int age= 38;
         static char gender ='F';// add gender
         static long mobile = Long.parseLong("07948523452");
-        static Double salary = 2000.80;
+        static Double salary = 1500.50;
         public static void main(String[] args){
         System.out.println("hello");
         System.out.println(name);
